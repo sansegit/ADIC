@@ -1,5 +1,5 @@
 # ADIC
-Adaptive Digital Image Correlation for biological materials in medicine and material science
+Adaptive Digital Image Correlation for biological materials
 
 # Description
 Computes deformation fields out of image natural texture by performing digital image correlation between test and reference images. 
