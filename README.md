@@ -74,3 +74,4 @@ The participating institutions are:
 
 Please cite the original work in:
 1. Sanabria Martin, Sergio & Lanvermann, Christian & Michel, Franco & Mannes, David & Niemz, Peter. (2014). Adaptive Neutron Radiography Correlation for Simultaneous Imaging of Moisture Transport and Deformation in Hygroscopic Materials. Experimental Mechanics. 55. 403-415. 10.1007/s11340-014-9955-2. 
+[Preprint](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/92131/2/Sanabria2015_Article_AdaptiveNeutronRadiographyCorr.pdf)
